@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Menew-App",
+    "slug": "Menew-App",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/menew-logo.png",
+    "splash": {
+      "image": "./assets/menew-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/menew-logo.png"
+    }
+  }
+}
